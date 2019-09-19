@@ -6,9 +6,9 @@ To cache your GitHub password on git, use the following command on terminal:-
 
 To delete your password from cache, use this:-
 
-git credential-cache erase
-host=github.com
-protocol=https
+git credential-cache erase\
+host=github.com\
+protocol=https\
 [Press Return]
 
 
